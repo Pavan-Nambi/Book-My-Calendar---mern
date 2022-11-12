@@ -2,9 +2,12 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "@fullcalendar/daygrid": "^5.11.0",
     "@fullcalendar/react": "^5.11.1",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
     "moment": "^2.29.3",
     "moment-timezone": "^0.5.34",
     "react": "^17.0.2",
